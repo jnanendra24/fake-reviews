@@ -1,5 +1,8 @@
 # Fake Reviews
 
+DATASETS
+[kaggle](https://www.kaggle.com/datasets/mexwell/fake-reviews-dataset "kaggle")
+
 1. clone this repo
 2. cd `fake-reviews`
 3. **OPTIONAL:** well, I recommend creating a virtual environment for python, the easiest way possible is to use [uv docs](https://pypi.org/project/uv/ "uv docs"). you can skip this otherwise.
